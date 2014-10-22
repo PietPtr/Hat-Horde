@@ -1,3 +1,5 @@
+BEWARE: This game was made in ~16 hours and you will find bad code.
+
 INSTALLATION:
 
 - First run 'XNA4.0_Redistributable.msi' to install the XNA framework on your computer.
