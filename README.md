@@ -22,3 +22,6 @@ CREDITS:
 - Code and art by Pietdagamer
 
 - Gunshot sound by Tito Lahaye (http://www.freesound.org/people/Tito%20Lahaye/sounds/76090/)
+
+DOWNLOAD:
+- Download link for windows: https://www.dropbox.com/s/03o9n2lalryxzks/HatHorde.zip?dl=1
